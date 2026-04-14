@@ -56,7 +56,7 @@ df = df.dropna(subset=['exchange'])  # remove missing currency conversion
 # =========================
 df.to_csv(r"C:\DV\Global electronic\Data\Export_data\final_dataset.csv", index=False)
 
-print("✅ Final dataset exported successfully!")
+print("Final dataset exported successfully!")
 
 
 stores_value = df.groupby('stores_type').agg(total_revenue = ('revenue','sum'),
