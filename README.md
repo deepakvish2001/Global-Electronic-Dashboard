@@ -59,6 +59,7 @@ Data used in Power BI Excel file is located in '/Data/PowerBIData' folder
 │    └──decode_special_char.py
 │    └──load_data.py
 │    └──sales_performing.py
+├── images
 ├── global electronic.pbix
 ├── README.md
 
