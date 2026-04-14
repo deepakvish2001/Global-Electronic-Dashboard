@@ -243,6 +243,7 @@ The Average value of order is decreasing from 2017 lead to low revenue.
 
 Global Electronic Dashboard
 [Download the Dashboard](./global%20electronic.pbix)
+**Inside click on Raw Data**
 
 ---
 
